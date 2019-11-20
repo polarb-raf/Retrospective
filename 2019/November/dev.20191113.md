@@ -2,7 +2,7 @@
 
 
 
-### 학습 및 실한 내용 (12일 포함)
+### 학습 및 실시한 내용 (12일 포함)
 
 1. Docker 사용, node+nginx 배포 연습 (계속 진행할 예정)
     - [참고1: React와 Nginx를 Dockerizing하는 방법](https://codechacha.com/ko/dockerizing-react-with-nginx/)
