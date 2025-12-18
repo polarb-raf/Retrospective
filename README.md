@@ -1,4 +1,7 @@
 # Retrospective
+## Archived
+- 이제 모든 글은 블로그에 적습니다. 그마저도 별로 안적지만.
+- [https://blog.raf.town](https://blog.raf.town)
 
 ### What is this about?
 - 회고라고 했지만 사실 일기나 다름 없이 가볍게 그날을 돌아보며 정리하는 레포
